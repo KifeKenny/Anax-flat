@@ -3,7 +3,7 @@ About
 
 Denna sidan är skapad för [design kursen](http://dbwebb.se/design).
 Låt mig citera lite från [Kmom01](https://dbwebb.se/kurser/design/kmom01) om vad kursen
-och denna webbsidan hanlar om.
+och denna webbsidan handlar om.
 
 <img src="../htdocs/img/Designe_wallpaper.jpg" style=" width: 800px; height: 300px;">
 

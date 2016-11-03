@@ -1,4 +1,4 @@
-Copyright &copy; 2016 [Kevin O.J](https://google.se)
+Copyright &copy; 2016 Kevin O.J
 
 <!-- * [License](license) -->
 * [Cookies](cookies)
