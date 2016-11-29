@@ -6,7 +6,7 @@ Me-sida Kevin
 ===============================
 Hej<br>
 Detta är min me-sida för kursen [design](http://dbwebb.se/design) som jag läser på BTH (Blekinges Tekniska Högskola).
-<div class="bild_index>
+<div class="bild_index">
 <img src="../htdocs/img/bild_keneki.jpg" style="width: 100%; height: 400px">
 
 </div>
