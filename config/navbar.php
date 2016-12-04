@@ -43,6 +43,17 @@ return [
                 "url"   => $this->di->get("url")->create("typography"),
                 "title" => t("typography")
             ],
+
+            "theme" => [
+                "text"  => t("theme"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("theme")
+            ],
+            "analysis" => [
+                "text"  => t("analysis"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("analysis")
+            ],
         ],
     ],
 
