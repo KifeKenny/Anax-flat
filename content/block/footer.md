@@ -1,4 +1,4 @@
-<div class="links_cc_copy" style="margin-bottom: 20px;">
+<div class="links_cc_copy">
 Copyright &copy; 2016 Kevin O.J<br><br>
 
 <!-- * [License](license) -->

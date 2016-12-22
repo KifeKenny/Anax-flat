@@ -76,5 +76,53 @@ return [
             "class"      => "fun",
             "stylesheets" => []
         ],
+
+        "separator3" => "------------------------------------------------",
+
+        "contrast"       => [
+            "title"      => "Light vs dark, thick vs thin",
+            "class"      => "contrast",
+            "stylesheets" => [
+                "css/contrast.min.css"
+            ]
+        ],
+        "framing"       => [
+            "title"      => "frame the important content",
+            "class"      => "framing",
+            "stylesheets" => [
+                "css/framing.min.css"
+            ]
+        ],
+        "repetition"       => [
+            "title"      => "repetition is key",
+            "class"      => "repetition",
+            "stylesheets" => [
+                "css/repetition.min.css"
+            ]
+        ],
+
+        "separator4" => "------------------------------------------------",
+
+        "1"       => [
+            "title"      => "textur/opacity/streck",
+            "class"      => "textur/opacity/streck",
+            "stylesheets" => [
+                "css/textur-opacity-streck.min.css"
+            ]
+        ],
+        "2"       => [
+            "title"      => "gradients/wholeScreen",
+            "class"      => "gradients/wholeScreen",
+            "stylesheets" => [
+                "css/bilder-wholeScreen.min.css"
+            ]
+        ],
+        "3"       => [
+            "title"      => "foto/centrerat/bilder",
+            "class"      => "foto/centrerat/bilder",
+            "stylesheets" => [
+                "css/foto-centrerat-bilder.min.css"
+            ]
+        ],
     ]
 ];

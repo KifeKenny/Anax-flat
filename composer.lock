@@ -213,16 +213,16 @@
         },
         {
             "name": "mos/anax-flat",
-            "version": "v1.0.27",
+            "version": "v1.0.31",
             "source": {
                 "type": "git",
                 "url": "https://github.com/canax/anax-flat.git",
-                "reference": "57b62994943d59d57c6af30c5920be37df67e71e"
+                "reference": "f93064b60a9fbed73c7e6c42fec3cead88af85c2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/canax/anax-flat/zipball/57b62994943d59d57c6af30c5920be37df67e71e",
-                "reference": "57b62994943d59d57c6af30c5920be37df67e71e",
+                "url": "https://api.github.com/repos/canax/anax-flat/zipball/f93064b60a9fbed73c7e6c42fec3cead88af85c2",
+                "reference": "f93064b60a9fbed73c7e6c42fec3cead88af85c2",
                 "shasum": ""
             },
             "require": {
@@ -264,7 +264,7 @@
                 "micro",
                 "mvc"
             ],
-            "time": "2016-11-28 14:06:48"
+            "time": "2016-12-05 17:03:47"
         },
         {
             "name": "mos/cimage",
@@ -423,16 +423,16 @@
         },
         {
             "name": "symfony/yaml",
-            "version": "v3.2.0",
+            "version": "v3.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/yaml.git",
-                "reference": "f2300ba8fbb002c028710b92e1906e7457410693"
+                "reference": "a7095af4b97a0955f85c8989106c249fa649011f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/yaml/zipball/f2300ba8fbb002c028710b92e1906e7457410693",
-                "reference": "f2300ba8fbb002c028710b92e1906e7457410693",
+                "url": "https://api.github.com/repos/symfony/yaml/zipball/a7095af4b97a0955f85c8989106c249fa649011f",
+                "reference": "a7095af4b97a0955f85c8989106c249fa649011f",
                 "shasum": ""
             },
             "require": {
@@ -474,7 +474,7 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "https://symfony.com",
-            "time": "2016-11-18 21:17:59"
+            "time": "2016-12-10 10:07:06"
         }
     ],
     "packages-dev": [],

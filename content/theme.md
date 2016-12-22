@@ -4,6 +4,15 @@ Theme
 <h3>Base</h3>
 
 Bas temat innehåller inga speciella färger, förutom grå bakgrunds färg i html elementet. Anledningen är för att få användaren att fokusera på själva innehållet på hemsidan. Annars är själva kroppen på hemsidan rätt standar, med vit bakgrund och svart text så att texten sticker ut och är lättare att läsa.
+
+Färgschemat jag använde:
+<table style="border-spacing: 4px; border-collapse: separate">
+<tbody><tr>
+<td style="height: 50px; width: 50px; background-color: #c3c3c3; border: 1px solid black">
+</td><td style="height: 50px; width: 50px; background-color: #747776; border: 1px solid black">
+</td><td style="height: 50px; width: 50px; background-color: #FFFFFF; border: 1px solid black">
+</td></tr>
+</tbody></table>
 <hr>
 
 <h3>Light</h3>

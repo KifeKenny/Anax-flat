@@ -26,10 +26,10 @@ return [
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("About this website")
             ],
-            "test" => [
-                "text"  => t("test"),
-                "url"   => $this->di->get("url")->create("test"),
-                "title" => t("TestSida")
+            "images" => [
+                "text"  => t("images"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("images")
             ],
 
             "grid" => [
@@ -54,11 +54,28 @@ return [
                 "url"   => $this->di->get("url")->create("analysis"),
                 "title" => t("analysis")
             ],
+            "theme-selector" => [
+                "text"  => t("theme-selector"),
+                "url"   => $this->di->get("url")->create("theme-selector"),
+                "title" => t("theme-selector")
+            ],
+            "blogg" => [
+                "text"  => t("blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("blogg")
+            ],
+            "design-principle" => [
+                "text"  => t("design-principle"),
+                "url"   => $this->di->get("url")->create("design-principle"),
+                "title" => t("design-principle")
+            ],
+            "design-element" => [
+                "text"  => t("design-element"),
+                "url"   => $this->di->get("url")->create("design-element"),
+                "title" => t("design-element")
+            ],
         ],
     ],
-
-
-
 
     // Used as menu together with responsive menu
     // Name of this menu
@@ -82,6 +99,54 @@ return [
                 "text"  => t("About"),
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("About this website")
+            ],
+            "images" => [
+                "text"  => t("images"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("images")
+            ],
+
+            "grid" => [
+                "text"  => t("grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("grid")
+            ],
+
+            "typography" => [
+                "text"  => t("typography"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("typography")
+            ],
+
+            "theme" => [
+                "text"  => t("theme"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("theme")
+            ],
+            "analysis" => [
+                "text"  => t("analysis"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("analysis")
+            ],
+            "theme-selector" => [
+                "text"  => t("theme-selector"),
+                "url"   => $this->di->get("url")->create("theme-selector"),
+                "title" => t("theme-selector")
+            ],
+            "blogg" => [
+                "text"  => t("blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("blogg")
+            ],
+            "design-principle" => [
+                "text"  => t("design-principle"),
+                "url"   => $this->di->get("url")->create("design-principle"),
+                "title" => t("design-principle")
+            ],
+            "design-element" => [
+                "text"  => t("design-element"),
+                "url"   => $this->di->get("url")->create("design-element"),
+                "title" => t("design-element")
             ],
         ],
     ],
