@@ -17,15 +17,14 @@ return [
             "bodyClass"     => [],
             "lang"          => "sv",
             "charset"       => "utf-8",
-            "title_append"  => " | Anax Flat",
-            "favicon"       => "img/favicon/favicon_256x256.png",
+            "title_append"  => " | Lag och ordning AB",
+            "favicon"       => "img/favicon/logo_jurist.jpg",
 
             // Style and stylesheets
             // "stylesheets" => ["css/default.min.css"],
             //"stylesheets" => ["css/style.min.css"],
             "stylesheets" => [
-                "css/style.min.css",
-                "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"
+                "css/style.min.css"
             ],
             "styleInline" => null,
 
@@ -56,8 +55,8 @@ return [
             "template" => "default/header",
             "data" => [
                 "homeLink"      => "",
-                "siteLogoText"  => "Anax Flat",
-                "siteLogoTextIcon" => "img/favicon/favicon_40x40.png",
+                "siteLogoText"  => "Lag och ordning AB",
+                "siteLogoTextIcon" => "img/favicon/logo_jurist.jpg",
                 "siteLogoTextIconAlt" => "Small logo",
                 "siteLogo"      => null, //"img/anax.png",
                 "siteLogoAlt"   => null, //"Anax Logo",

@@ -1,5 +1,5 @@
-####Byline
+####Kontakt
 
-<img src="../htdocs/img/jag.JPG" style="float: left; width: 100px; height: 100px; padding-right: 2px">
-
-Kevin Studerar sitt första år på Webbprogrammering i Blekinges Tekniska Högskola i hoppet om att bli en webbprogrammerare.
+E-post: Lag/ordningAB@hotmail.com<br>
+Telefon: 07-541 542 21<br>
+Adress: Företagsgatan 27

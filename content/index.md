@@ -1,15 +1,35 @@
----
-titleBreadcrumb: Home
-...
+Home
+===============================================================================
+<div class=region>
+<h3>Kontakta oss för vägledning</h3>
+[FIGURE class=left src="image/lawyer_bild01.jpg?h=200&w=300&.left"]
+Juridik blir alltmer en del av vår vardag. Därför finns vi här för att hjälpa dig förstå din situation med lagens ögon, och för att sedan hjälpa dig att få det som du vill. Kontakta
+oss för vägledning.
+<br><br>
 
-Me-sida Kevin
-===============================
-Hej<br>
-Detta är min me-sida för kursen [design](http://dbwebb.se/design) som jag läser på BTH (Blekinges Tekniska Högskola).
-<div class="bild_index">
-<img src="../htdocs/img/bild_keneki.jpg" style="width: 100%; height: 400px">
+E-post: Lag/ordningAB@hotmail.com<br>
+Telefon: 07-541 542 21<br>
+Adress: Företagsgatan 27
+<br>
+<hr>
 
 </div>
-Jag heter Kevin är 21 år. Jag är uppväxt och bor fortfarande i Kristianstad men har planer om att flytta till Karlskrona. Jag bor med mina föräldrar och tre av mina syskon. Har totalt fem syskon två bröder och tre systrar, har även en hund. Kristianstad ligger ungefär en och en halv timme från Karlskrona så är tvungen att pendla till skolan medan jag letar lägenhet.
 
-På gymnasiet studerade jag samhälle eftersom jag inte hade någon aning om vad jag ville bli. Fortfarande inte helt säker på vad jag vill bli. Men jag har ett intresse för datorer och tyckte programmering lät kul. Mina fritids intresse är bland annat spela dataspel, träna och hitta på random saker. När jag var liten tränade jag sporter som fotboll och tennis.
+<div class=region>
+<h3>Om oss</h3>
+[FIGURE class=left src="image/about_header.jpg?h=200&w=300&.left"]
+På Lag och ordning AB ser vi som vårt uppdrag att erbjuda juridiskt biträde i toppklass – på alla platser där vi finns. Tanken är att genom samarbete nå högre total kompetens och en sammanlagd större och bredare erfarenhet, vilket gör att vi kan hålla högre kvalitet och bredd på våra tjänster. Allt vi kan, kan vi på alla platser där vi finns.
+<br><br><br>
+
+Läs mer om oss: <a href="http://www.student.bth.se/~kejo15/dbwebb-kurser/design/me/kmom10/proj/htdocs/about">About</a>
+<hr>
+</div>
+
+<div class=region>
+<h3>Aktuellt</h3>
+[FIGURE class=left src="image/nyheter.jpg?h=200&w=300&.left&stretch"]
+Titta på dem mest aktuella uppdateringarna inom Lag och ordning AB. Detta innehåller bland annat dem nya tjänsterna som vi erbjuder. Innehåller samt uppdateringar inom företaget som kan hjälpa dig.<br><br><br><br>
+Läs mer: <a href="http://www.student.bth.se/~kejo15/dbwebb-kurser/design/me/kmom10/proj/htdocs/blogg">Blogg</a>
+
+<hr>
+</div>

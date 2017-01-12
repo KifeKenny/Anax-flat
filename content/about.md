@@ -1,19 +1,47 @@
+---
+views:
+
+    flash:
+        region: flash
+        template: default/image
+        data:
+            src: "img/about_header.jpg"
+            class: "skullimg"
+
+...
+
 About
-==============================================
+===============================================================================
+<div class=region>
+<h3>Lag och ordning AB</h3>
+[FIGURE class=left src="image/logo_jurist1.jpg?w=300&h=200&.left&stretch"]
+Vi Lag och ordning AB är ett jurist företag som lägger vikten på kvalitet, professionalitet och kunskap. Vi ger svar på dina frågor, vi ger lösningar till dina problem. Vi är dem mest kvalificerade och jobbar ständigt för att försätta ligga på toppen och slutar inte förrän resultaten blir dem absolut bästa. Vi är juristerna för dig.
+<br><br><br>
+<hr>
 
-Denna sidan är skapad för [design kursen](http://dbwebb.se/design).
-Låt mig citera lite från [Kmom01](https://dbwebb.se/kurser/design/kmom01) om vad kursen
-och denna webbsidan handlar om.
+</div>
+<div class=region>
+<h3>Vårt lag</h3>
+[FIGURE class=left src="image/lawyer_group.jpg?h=200&w=300&.left"]
+Vår policy är att erbjuda våra kunder/klienter kvalificerad juridisk hjälp och rådgivning som kännetecknas av:<br><br>
+– Hög och unik kompetens<br>
+– Lång och gedigen erfarenhet<br>
+– Etiskt förhållningssätt<br>
+– Integritet och sekretess<br>
+– Humanistiskt förhållningssätt<br>
 
-<img src="../htdocs/img/Designe_wallpaper.jpg" style=" width: 100%; height: 300px;">
+<hr>
+</div>
 
-"Hur bygger vi våra webbplatser för att underlätta för design och användbarhet? Det handlar främst om hur vi, som programmerare, rent tekniskt kan förbereda webbplatserna för design och användbarhet. Allt för att vi skall vara förberedda när det kommer en webbdesigner, eller designer inom användbarhet, och berättar hur webbplatsen skall se ut.
+<div class=region>
+<h3>Kvalite</h3>
+[FIGURE class=left src="image/law_hammer.jpg?h=200&w=300&.left"]
+Vi arbetar ständigt med att förbättra kvaliteten, bl.a. genom att:<br>
+Kontinuerligt utveckla våra strategier och arbetssätt samt till se att byrån har rätt kompetens för vår verksamhet.<br>
+Utveckla och utnyttja personalens fulla kompetens.<br>
+Erbjuda personalen en systematisk och för  verksamheten relevant kompetensutveckling som dokumenteras i en  kompetensutvecklingsplan.<br>
+Alltid försäkra oss om kundens önskemål, behov och  förväntningar samt upprätta avtal med kunden som beskriver detta.
+Alltid hålla våra deadlines.
 
-För att komma igång snabbt så använder vi ett PHP-baserat ramverk för att bygga en me-sida som vi fyller med innehåll genom att skriva Markdown."
-
-
-[Min GitHub](https://github.com/KifeKenny/Anax-flat)<br>
-[GitHub Theme](https://github.com/KifeKenny/anax-flat-theme)
-<div style="float: right">
-This site is produced by: Kevin Olguin Jönsson.
+<hr>
 </div>

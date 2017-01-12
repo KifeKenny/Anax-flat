@@ -14,11 +14,10 @@ return [
         // Here comes the menu structure
         "items" => [
 
-            "report" => [
-                "text"  => t("Report"),
-                "url"   => $this->di->get("url")->create("report"),
-                "title" => t("Reports from kmom assignments"),
-                "mark-if-parent" => true,
+            "index" => [
+                "text"  => t("Home"),
+                "url"   => $this->di->get("url")->create("index"),
+                "title" => t("Home page")
             ],
 
             "about" => [
@@ -26,53 +25,21 @@ return [
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("About this website")
             ],
-            "images" => [
-                "text"  => t("images"),
-                "url"   => $this->di->get("url")->create("images"),
-                "title" => t("images")
-            ],
 
-            "grid" => [
-                "text"  => t("grid"),
-                "url"   => $this->di->get("url")->create("grid"),
-                "title" => t("grid")
+            "blogg" => [
+                "text"  => t("Blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("blogg")
             ],
-
-            "typography" => [
-                "text"  => t("typography"),
-                "url"   => $this->di->get("url")->create("typography"),
-                "title" => t("typography")
-            ],
-
-            "theme" => [
-                "text"  => t("theme"),
-                "url"   => $this->di->get("url")->create("theme"),
-                "title" => t("theme")
-            ],
-            "analysis" => [
-                "text"  => t("analysis"),
-                "url"   => $this->di->get("url")->create("analysis"),
-                "title" => t("analysis")
+            "tema" => [
+                "text"  => t("Theme"),
+                "url"   => $this->di->get("url")->create("tema"),
+                "title" => t("tema")
             ],
             "theme-selector" => [
                 "text"  => t("theme-selector"),
                 "url"   => $this->di->get("url")->create("theme-selector"),
                 "title" => t("theme-selector")
-            ],
-            "blogg" => [
-                "text"  => t("blogg"),
-                "url"   => $this->di->get("url")->create("blogg"),
-                "title" => t("blogg")
-            ],
-            "design-principle" => [
-                "text"  => t("design-principle"),
-                "url"   => $this->di->get("url")->create("design-principle"),
-                "title" => t("design-principle")
-            ],
-            "design-element" => [
-                "text"  => t("design-element"),
-                "url"   => $this->di->get("url")->create("design-element"),
-                "title" => t("design-element")
             ],
         ],
     ],
@@ -88,65 +55,30 @@ return [
         // Here comes the menu structure
         "items" => [
 
-            "report" => [
-                "text"  => t("Report"),
-                "url"   => $this->di->get("url")->create("report"),
-                "title" => t("Reports from kmom assignments"),
-                "mark-if-parent" => true,
+            "index" => [
+                "text"  => t("Home"),
+                "url"   => $this->di->get("url")->create("index"),
+                "title" => t("Home page")
             ],
-
             "about" => [
                 "text"  => t("About"),
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("About this website")
-            ],
-            "images" => [
-                "text"  => t("images"),
-                "url"   => $this->di->get("url")->create("images"),
-                "title" => t("images")
-            ],
-
-            "grid" => [
-                "text"  => t("grid"),
-                "url"   => $this->di->get("url")->create("grid"),
-                "title" => t("grid")
-            ],
-
-            "typography" => [
-                "text"  => t("typography"),
-                "url"   => $this->di->get("url")->create("typography"),
-                "title" => t("typography")
-            ],
-
-            "theme" => [
-                "text"  => t("theme"),
-                "url"   => $this->di->get("url")->create("theme"),
-                "title" => t("theme")
-            ],
-            "analysis" => [
-                "text"  => t("analysis"),
-                "url"   => $this->di->get("url")->create("analysis"),
-                "title" => t("analysis")
-            ],
-            "theme-selector" => [
-                "text"  => t("theme-selector"),
-                "url"   => $this->di->get("url")->create("theme-selector"),
-                "title" => t("theme-selector")
             ],
             "blogg" => [
                 "text"  => t("blogg"),
                 "url"   => $this->di->get("url")->create("blogg"),
                 "title" => t("blogg")
             ],
-            "design-principle" => [
-                "text"  => t("design-principle"),
-                "url"   => $this->di->get("url")->create("design-principle"),
-                "title" => t("design-principle")
+            "tema" => [
+                "text"  => t("Theme"),
+                "url"   => $this->di->get("url")->create("tema"),
+                "title" => t("tema")
             ],
-            "design-element" => [
-                "text"  => t("design-element"),
-                "url"   => $this->di->get("url")->create("design-element"),
-                "title" => t("design-element")
+            "theme-selector" => [
+                "text"  => t("theme-selector"),
+                "url"   => $this->di->get("url")->create("theme-selector"),
+                "title" => t("theme-selector")
             ],
         ],
     ],
